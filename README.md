@@ -1,1 +1,1 @@
-# ugoku-history-videos
+# うごく歴史えほん 投稿用の動画置き場
